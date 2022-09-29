@@ -1,4 +1,4 @@
- # HOMEWORK
+ #  VPC STEPS 
 - First step we create `VPC`
 - Second step we create `SUBNETS`
 - Third step we create `Internet GATEWAY`
